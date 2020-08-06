@@ -3,7 +3,7 @@ A C++ tool which suggests correct spelling for misspelt words in English languag
 #### BUILD INSTRUCTIONS
 It is a command line tool and the source code can be compiled using g++ compiler.
 
-	  cd SpellChecker1.0
+	  cd SpellChecker
  	  make
 
 The program can be executed using the command line operations. 
