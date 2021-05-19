@@ -1,0 +1,1 @@
+Here we used Trie Data Structure to store the Dictionary.
